@@ -13,7 +13,7 @@ The Mock Movie Site is a web application built using the Movie Database API, enh
 
 ## Usage
 
-To use the Mock Movie Site, simply visit [https://mockmoviesite.netlify.app/](https://mockmoviesite.netlify.app/) in your web browser. Explore the vast collection of movies, search for your favorites, and enjoy the seamless browsing experience.
+To view the Mock Movie Site, simply visit [My Deployed Netlify Site Here](https://mockmoviesite.netlify.app/) in your web browser. Explore the vast collection of movies, search for your favorites, and enjoy the seamless browsing experience.
 
 ## Credits
 
